@@ -27,4 +27,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/a/urOFRjD?fbclid=IwAR3NUM6GwKVfpZeXFjyQVBAFYZj7k3LIXdvrrK2YVZW6zzszeVTbyHBstA0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
+https://user-images.githubusercontent.com/59702166/139413276-48433795-b5ef-40d8-b634-dda9e3cd2752.mp4 //Updated
+
+
 // Please copy paste the link of the GIF and open in the browser incase it is not showing in the README file directly.
+
+//The last video is in mp4 form. Please copy and paste the link in the browser. Thank you.

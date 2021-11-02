@@ -22,8 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![251808470_339663047960889_4397764858095208316_n](https://user-images.githubusercontent.com/59702166/139785272-21294939-6fdd-4fc5-b9f8-64a560178b78.gif)
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/59702166/139785272-21294939-6fdd-4fc5-b9f8-64a560178b78.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <img src='![251808470_339663047960889_4397764858095208316_n](https://user-images.githubusercontent.com/59702166/139785272-21294939-6fdd-4fc5-b9f8-64a560178b78.gif)
 ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
